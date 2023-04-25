@@ -2,14 +2,14 @@
    
     width: 100%;
     height: auto;
-    background-color: rgba(0, 0, 0, 0.715);
+    background-color: rgba(0, 0, 0, 0.482);
 }
 .title{
     margin: 0;
     padding: 0;
     color: #fdfdfd;
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
     padding: 1.15%;
     font-family:'Lucida Sans Unicode', 'Lucida Sans Regular' , Verdana, sans-serif;
 

@@ -4,12 +4,12 @@ import Footer from "../footer/Footer";
 import './Home.css'
 
 
-function Home(props){
-    return(
+function Home(props) {
+    return (
         <div className="homeClass">
-          <Header/>
-          <Tours data2={props.data}/>
-           <Footer/>
+            <Header />
+            <Tours data2={props.data} />
+            <Footer />
         </div>
     )
 }

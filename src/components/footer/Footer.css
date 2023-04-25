@@ -1,0 +1,25 @@
+.footer{
+    background-color: rgba(0, 0, 0, 0.447);
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-top: 30px;
+    
+}
+.socials{
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 10%;
+    
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.auother{
+    padding: 10px 10%;
+}

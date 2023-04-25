@@ -1,0 +1,32 @@
+.Container{
+display: flex;
+justify-content:space-between;
+justify-items: center;
+flex-direction: column;
+
+}
+
+.PlaceDiv{
+    display: flex;
+    justify-content:space-between;
+    justify-items: center;
+    flex-direction: column;
+    align-items: center;
+}
+.TopDescrption {
+    background-color: rgba(101, 102, 102, 0.708);
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    padding: 5px 33%;
+}
+
+.PlaceImg {
+    width: 75%;
+    height: 50%;
+   background-color: rgba(0, 0, 0, 0.358); 
+   padding: 5px;
+   border: 1px solid black;
+}
+.PlaceName{
+    font-size: 30px;
+}

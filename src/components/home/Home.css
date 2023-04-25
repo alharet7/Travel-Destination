@@ -1,8 +1,7 @@
 .homeClass{
-    background-color: #444444;
-    color: aliceblue;
+    background-image: linear-gradient(to right, rgb(124, 129, 129) , rgb(65, 112, 112));
+    color: rgb(254, 254, 254);
     display: flex;
-    justify-content: center;
     align-items: center;
     flex-direction: column;
 }

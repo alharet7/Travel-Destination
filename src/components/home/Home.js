@@ -8,7 +8,7 @@ function Home(props) {
     return (
         <div className="homeClass">
             <Header />
-            <Tours data2={props.data} />
+            <Tours data02={props.data} />
             <Footer />
         </div>
     )
